@@ -1,0 +1,1 @@
+# gradle-java-spring-multi-module
