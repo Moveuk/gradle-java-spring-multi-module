@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: multi-restapi-api
+  profiles:
+    #    group:
+    #      local:
+    #      dev:
+    include: domain
